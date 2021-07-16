@@ -7,7 +7,7 @@
 
   <img align="center" alt="trybe" src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="20"/> Studying web development at [@betrybe](https://www.betrybe.com/).
   
-  :teacher: <strike>Trying to be</strike> a teacher
+  :teacher: <strike>Trying to be</strike> Teacher
    
 
   ---
