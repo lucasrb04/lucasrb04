@@ -5,7 +5,6 @@
   
   :teacher: <strike>Trying to be</strike> teacher
    
-   --
    
    ### Contact me 👋
 
