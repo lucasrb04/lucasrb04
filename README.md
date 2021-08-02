@@ -26,7 +26,8 @@
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrb04&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrb04&hide=stars,issues&theme=dracula)
+
 
   ---
   
