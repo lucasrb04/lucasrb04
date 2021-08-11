@@ -14,6 +14,7 @@
   
   ### Languages and Tools
   
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrb04&hide=stars,issues&theme=dracula)
   
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,19 +27,6 @@
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrb04&hide=stars,issues&theme=dracula)
 
 
-  ---
-  
-   
-   
-  
-  ⚡ **Fun facts**:
-
-- :electron: I have a physics degree.
-
-- :rabbit: I have a couple of rabbits.
-
-- :tent: I really enjoy camping.
 
