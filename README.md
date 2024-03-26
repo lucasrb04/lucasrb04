@@ -5,7 +5,7 @@
   <a href="mailto:lucasrb04@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
   <a href="https://instagram.com/lucasrb04"><img src="https://img.shields.io/badge/-@lucasbr04_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
   
-  Desenvolvedor de software Junior na Vivo. 
+  Desenvolvedor de software pleno na Telefonica(Vivo). 
    
   ---
   
